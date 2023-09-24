@@ -1,8 +1,5 @@
 import AddTodoForm from "@/components/AddTodoForm"
 
-
-
-
 export default async function New() {
 
     return (
