@@ -1,5 +1,4 @@
 'use client'
-import prisma from '@/db'
 import Link from 'next/link'
 import TodoItem from '@/components/TodoItem'
 import { useEffect, useState } from 'react'

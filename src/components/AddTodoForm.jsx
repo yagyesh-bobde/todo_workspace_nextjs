@@ -1,7 +1,7 @@
 "use client"
 import Link from "next/link"
-import { createTodo } from "@/app/new/page"
 import { redirect } from "next/navigation"
+import { createTodo } from "@/actions"
 
 
 export default function AddTodoForm() {
